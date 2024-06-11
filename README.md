@@ -23,3 +23,18 @@ Handle missing values:Check for missing values in the dataset and decide on an a
 Remove duplicates: Identify and remove duplicate entries in the dataset to ensure data integrity.
 
 Handle outliers: Identify outliers and decide on an appropriate approach for handling them (e.g., removing or transforming outliers).
+
+
+2.Text Preprocessing (NLP Specific) Task:
+
+Prepare textual data for NLP tasks such as text classification, sentiment analysis, or sequence-to-sequence modeling.
+
+Steps:
+
+Convert text to lowercase: Convert all text data to lowercase to standardize case and reduce vocabulary size.
+
+Remove punctuation: Remove any punctuation marks from the text as they may not contribute to the task at hand.
+
+Tokenization: Split the text into individual tokens (words or subwords) to prepare for further processing.
+
+Stemming or Lemmatization: Reduce words to their base or root form to normalize the vocabulary and improve model performance.
