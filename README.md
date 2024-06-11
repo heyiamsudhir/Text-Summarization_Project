@@ -12,11 +12,14 @@ Data Preprocessing Steps
 
 In this project, we performed several data preprocessing steps to prepare our data for training machine learning models. Below is an overview of the preprocessing pipeline:
 
-1. Data Cleaning Task:
+1.Data Cleaning Task:
 
 Identify and address any issues or inconsistencies in the raw data.
+
 Steps:
 
-Handle missing values: Check for missing values in the dataset and decide on an appropriate strategy for dealing with them (e.g., imputation or removal).
+Handle missing values:Check for missing values in the dataset and decide on an appropriate strategy for dealing with them (e.g., imputation or removal).
+
 Remove duplicates: Identify and remove duplicate entries in the dataset to ensure data integrity.
+
 Handle outliers: Identify outliers and decide on an appropriate approach for handling them (e.g., removing or transforming outliers).
