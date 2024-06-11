@@ -4,14 +4,15 @@ Text summarization is a crucial aspect of natural language processing (NLP) that
 
 
 link:- https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
+
 Dataset link:- https://www.kaggle.com/datasets/cuitengfeui/textsummarization-data
 
 
 Data Preprocessing Steps
+
 In this project, we performed several data preprocessing steps to prepare our data for training machine learning models. Below is an overview of the preprocessing pipeline:
 
-1. Data Cleaning
-Task:
+1. Data Cleaning Task:
 
 Identify and address any issues or inconsistencies in the raw data.
 Steps:
