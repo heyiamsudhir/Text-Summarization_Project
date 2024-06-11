@@ -38,3 +38,40 @@ Remove punctuation: Remove any punctuation marks from the text as they may not c
 Tokenization: Split the text into individual tokens (words or subwords) to prepare for further processing.
 
 Stemming or Lemmatization: Reduce words to their base or root form to normalize the vocabulary and improve model performance.
+
+
+3.Feature Engineering
+
+Task:
+
+Create new features or transform existing features to enhance the predictive power of the model.
+
+Steps:
+
+Feature scaling: Scale numerical features to ensure they have similar ranges and prevent one feature from dominating others.
+
+Encoding categorical variables: Convert categorical variables into numerical representations suitable for machine learning algorithms (e.g., one-hot encoding or label encoding).
+
+Feature selection: Select a subset of relevant features to reduce dimensionality and improve model efficiency.
+
+4.Train-Test Split
+
+Task:
+
+Divide the dataset into training and testing sets to evaluate model performance.
+
+Steps:
+
+Split the dataset: Divide the dataset into training and testing sets, typically using a specified ratio (e.g., 80% training, 20% testing).
+
+Stratified sampling: Ensure that the distribution of classes or target variables is similar across the training and testing sets to avoid bias.
+
+5.Data Normalization or Standardization
+
+Task:
+
+Scale numerical features to a similar range to improve model convergence and performance.
+
+Steps:
+
+Normalization: Scale numerical features to a range between 0 and 1.
